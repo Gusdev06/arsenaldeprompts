@@ -17,11 +17,11 @@ async function translateText(text, from = 'pt', to = 'en') {
             return data.responseData.translatedText;
         } else {
             console.error('Translation error:', data);
-            return text;
+            return null;
         }
     } catch (error) {
         console.error('Translation API error:', error);
-        return text;
+        return null; // Return null on error to handle it in UI
     }
 }
 
@@ -111,7 +111,13 @@ class PromptCard {
 
                 // Translate
                 const translated = await translateText(ptText, 'pt', 'en');
-                enTextarea.value = translated;
+
+                if (translated) {
+                    enTextarea.value = translated;
+                } else {
+                    enTextarea.value = 'Erro na tradução. Tente novamente.';
+                    showToast('Erro ao traduzir. Limite da API pode ter sido atingido.', 'error');
+                }
             }
         }, TRANSLATION_DELAY);
     }
