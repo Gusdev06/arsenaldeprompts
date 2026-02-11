@@ -24,6 +24,18 @@ Vista a pessoa da Imagem 1 com o look completo mostrado na Imagem 2. Transfira t
 
 ---
 
+## SEÇÃO 3: Pessoa Promovendo Produto (Foto Promocional Realista)
+
+**English:**
+
+Image 1 is the reference person. Image 2 is the product. Recreate the person in Image 1 holding the product in Image 2 in a natural and promotional way, as if they were doing a professional promotion for social media or advertising. The product must remain completely faithful to Image 2—same packaging, color, label, logo, shape, and actual proportions. The person should hold or interact with the product in a spontaneous and attractive way, with anatomically correct hand and finger positions, without distortions. The facial expression should convey confidence and connection with the product. The face, features, skin tone (uniform throughout the body), hair, and physical characteristics of Image 1 must be preserved with complete fidelity. Lighting, shadows, and reflections must be consistent between the person and the product, as if both were in the same environment. The result should be a photorealistic image with advertising campaign quality, indistinguishable from a real professional photo, without any signs of editing, collage, or artificial montage.
+
+**Português:**
+
+A Imagem 1 é a pessoa de referência. A Imagem 2 é o produto. Recrie a pessoa da Imagem 1 segurando o produto da Imagem 2 de forma natural e promocional, como se estivesse fazendo uma promoção profissional para redes sociais ou publicidade. O produto deve permanecer completamente fiel à Imagem 2—mesma embalagem, cor, rótulo, logo, forma e proporções reais. A pessoa deve segurar ou interagir com o produto de forma espontânea e atraente, com posições anatômicas corretas das mãos e dedos, sem distorções. A expressão facial deve transmitir confiança e conexão com o produto. O rosto, as feições, o tom de pele (uniforme em todo o corpo), cabelo e características físicas da Imagem 1 devem ser preservados com total fidelidade. Iluminação, sombras e reflexos devem ser consistentes entre a pessoa e o produto, como se ambos estivessem no mesmo ambiente. O resultado deve ser uma imagem fotorrealista com qualidade de campanha publicitária, indistinguível de uma foto profissional real, sem qualquer sinal de edição, colagem ou montagem artificial.
+
+---
+
 ## Como Usar
 
 **Seção 1:** Use quando tiver múltiplas imagens de peças de roupa individuais e quiser combinar todas em uma pessoa.
@@ -33,3 +45,7 @@ Vista a pessoa da Imagem 1 com o look completo mostrado na Imagem 2. Transfira t
 **Seção 2:** Use quando tiver uma imagem de um look completo e quiser transferir para outra pessoa.
 - **Imagem 1:** Foto da pessoa que vai usar o look
 - **Imagem 2:** Foto do look completo (pode ser em manequim, modelo, ou foto de produto)
+
+**Seção 3:** Use quando quiser criar uma foto promocional realista de uma pessoa segurando/promovendo um produto.
+- **Imagem 1:** Foto da pessoa (influencer/modelo)
+- **Imagem 2:** Foto do produto a ser promovido
