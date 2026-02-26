@@ -43,3 +43,182 @@ Recreate the exact same photo from Image 1 — same person, same face, same skin
 **Seção 3:** Use quando quiser criar uma foto promocional realista de uma pessoa segurando/promovendo um produto.
 - **Imagem 1:** Foto da pessoa (influencer/modelo)
 - **Imagem 2:** Foto do produto a ser promovido
+
+---
+
+## SEÇÃO 4: Geração de Corpo Inteiro - 4 Ângulos (Frente, Direita, Esquerda, Costas)
+
+### FRENTE (Front View)
+
+Full-body reference photo of this same woman, head to toe.
+
+Front view — facing camera directly. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fashion catalog quality, photorealistic, sharp details.
+
+Maintain exact same face, features, skin tone, hair, and body proportions as reference image.
+
+---
+
+### LADO DIREITO (Right Profile)
+
+Full-body reference photo of this same woman, head to toe.
+
+Right profile view — facing right side of frame. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fashion catalog quality, photorealistic, sharp details.
+
+Maintain exact same face, features, skin tone, hair, and body proportions as reference image.
+
+---
+
+### LADO ESQUERDO (Left Profile)
+
+Full-body reference photo of this same woman, head to toe.
+
+Left profile view — facing left side of frame. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fashion catalog quality, photorealistic, sharp details.
+
+Maintain exact same face, features, skin tone, hair, and body proportions as reference image.
+
+---
+
+### COSTAS (Back View)
+
+Full-body reference photo of this same woman, head to toe.
+
+Back view — facing away from camera, showing full back of body. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fashion catalog quality, photorealistic, sharp details.
+
+Maintain exact same body proportions, skin tone, and hair as reference image.
+
+---
+
+## SEÇÃO 5: Modificação Corporal por Porcentagem
+
+### TEMPLATE BASE COM MODIFICAÇÕES
+
+Full-body reference photo of this same woman, head to toe.
+
+[ÂNGULO] view. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+**BODY MODIFICATIONS:**
+- [INSERIR MODIFICAÇÕES AQUI]
+
+All enhancements should look natural, realistic, and proportional.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fitness catalog quality, photorealistic, sharp details.
+
+Maintain exact same face, features, skin tone, and hair as reference image.
+
+---
+
+### TABELA DE MODIFICAÇÕES POR PARTE DO CORPO
+
+| Parte do Corpo | Termo no Prompt | Aumentar/Diminuir | Porcentagem Recomendada |
+|----------------|-----------------|-------------------|-------------------------|
+| **Glúteos** | `glute/buttocks size` | Increase | +20% (sutil), +50% (fitness), +80% (muito desenvolvido) |
+| **Coxas** | `thigh size` | Increase | +15% (sutil), +30% (atlético), +50% (desenvolvido) |
+| **Panturrilhas** | `calf muscle size` | Increase | +20% (sutil), +40% (atlético), +60% (desenvolvido) |
+| **Cintura** | `waist size` | Decrease | -10% (sutil), -20% (marcada), -30% (bem definida) |
+| **Quadril** | `hip width` | Increase | +15% (sutil), +30% (curvilíneo), +50% (pronunciado) |
+| **Braços** | `arm muscle definition` | Increase | +20% (tonificado), +40% (atlético), +60% (definido) |
+| **Abdômen** | `abdominal definition` | Increase | +30% (leve), +50% (visível), +80% (tanquinho) |
+| **Costas** | `back muscle definition` | Increase | +20% (sutil), +40% (atlético), +60% (definido) |
+| **Busto** | `bust/chest size` | Increase | +15% (sutil), +30% (moderado), +50% (cheio) |
+| **Ombros** | `shoulder width` | Increase | +10% (sutil), +25% (atlético), +40% (definido) |
+
+---
+
+### EXEMPLOS DE COMBINAÇÕES PRONTAS
+
+#### CORPO FITNESS INFLUENCER (Academia)
+
+```
+BODY MODIFICATIONS:
+- Increase glute/buttocks size by 50%
+- Increase thigh size by 30%
+- Decrease waist size by 15%
+- Increase abdominal definition by 40%
+- Increase arm muscle definition by 25%
+```
+
+#### CORPO CURVILÍNEO (Hourglass)
+
+```
+BODY MODIFICATIONS:
+- Increase glute/buttocks size by 40%
+- Increase hip width by 30%
+- Decrease waist size by 20%
+- Increase bust size by 25%
+```
+
+#### CORPO ATLÉTICO (Esportista)
+
+```
+BODY MODIFICATIONS:
+- Increase thigh size by 25%
+- Increase calf muscle size by 20%
+- Increase abdominal definition by 50%
+- Increase arm muscle definition by 30%
+- Increase shoulder width by 20%
+```
+
+#### CORPO MODELO (Slim Toned)
+
+```
+BODY MODIFICATIONS:
+- Decrease waist size by 10%
+- Increase abdominal definition by 30%
+- Increase glute/buttocks size by 20%
+- Increase arm muscle definition by 15%
+```
+
+---
+
+### EXEMPLO COMPLETO - Lado Direito + Corpo Fitness
+
+Full-body reference photo of this same woman, head to toe.
+
+Right profile view — facing right side of frame. Neutral standing position, arms relaxed naturally at sides, feet slightly apart. No dynamic pose — clean model reference style.
+
+**BODY MODIFICATIONS:**
+- Increase glute/buttocks size by 50%
+- Increase thigh size by 30%
+- Decrease waist size by 15%
+- Increase abdominal definition by 40%
+
+All enhancements should look natural, realistic, and proportional.
+
+Same clothing/outfit as in the reference image.
+
+Pure white background, soft even studio lighting, fitness catalog quality, photorealistic, sharp details.
+
+Maintain exact same face, features, skin tone, and hair as reference image.
+
+---
+
+## Como Usar as Novas Seções
+
+**Seção 4:** Use quando precisar gerar imagens de corpo inteiro da sua influencer virtual em diferentes ângulos (frente, direita, esquerda, costas) mantendo a mesma roupa da imagem de referência.
+- **Entrada:** Foto da influencer (rosto ou corpo inteiro)
+- **Resultado:** Corpo inteiro no ângulo desejado, fundo branco, mesma roupa
+
+**Seção 5:** Use quando precisar modificar proporções corporais específicas para criar diferentes tipos físicos (fitness, curvilíneo, atlético, etc.).
+- **Entrada:** Foto da influencer
+- **Customização:** Escolha as porcentagens de modificação para cada parte do corpo
+- **Resultado:** Corpo modificado de forma natural e proporcional
+
+**Dica:** Combine as seções 4 e 5 para gerar os 4 ângulos com as modificações corporais desejadas.
