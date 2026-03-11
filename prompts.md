@@ -46,6 +46,74 @@ Recreate the exact same photo from Image 1 — same person, same face, same skin
 
 ---
 
+## SEÇÃO 3.5: POV Produto — Mão Feminina (Primeira Pessoa)
+
+**English:**
+
+Realistic first-person POV photo showing the product from [image 1] being held by elegant feminine hands with painted nails. The perspective is from the person's own point of view looking down, holding the product with both hands at chest/lap height. The fingers are anatomically perfect — slim, delicate, and feminine, with well-manicured nails painted in a solid color (light pink, red, nude, or burgundy). The hand skin is smooth, uniform, and realistic with natural texture. The product must maintain full fidelity to the reference image — same packaging, color, label, logo, shape, and real proportions. The lighting is natural and soft, with coherent shadows between the hands and the product. The background is slightly blurred (soft bokeh) showing a lifestyle setting — coffee table, bathroom counter, bed, or couch. No watermarks, no text. The final result must look like a real photo taken by a woman holding the product, in a casual and authentic UGC content style for Instagram.
+
+**Português:**
+
+Foto realista em primeira pessoa (POV) mostrando o produto da [imagem 1] sendo segurado por mãos femininas elegantes com unhas pintadas. A perspectiva é do ponto de vista da própria pessoa olhando para baixo, segurando o produto com ambas as mãos na altura do peito/colo. Os dedos são anatomicamente perfeitos — finos, delicados e femininos, com unhas bem feitas, pintadas em cor sólida (rosa claro, vermelho, nude ou vinho). A pele das mãos é suave, uniforme e realista, com textura natural. O produto deve manter total fidelidade à imagem de referência — mesma embalagem, cor, rótulo, logo, formato e proporções reais. A iluminação é natural e suave, com sombras coerentes entre as mãos e o produto. O fundo é levemente desfocado (bokeh suave) mostrando um ambiente lifestyle — mesa de café, bancada de banheiro, cama ou sofá. Sem marcas d'água, sem texto. O resultado final deve parecer uma foto real tirada por uma mulher segurando o produto, em estilo casual e autêntico de conteúdo UGC para Instagram.
+
+---
+
+## SEÇÃO 3.6: Vídeo TikTok — POV Mostrando Produto com Gesticulação
+
+> **Como usar:** Copie este prompt e envie para uma IA de texto (ChatGPT, Claude, etc.) junto com a imagem de mãos já segurando o produto. A IA vai analisar tudo (produto, mãos, fundo) e gerar o prompt do vídeo pronto para usar no Kling, Sora, Runway ou Pika. Se você não enviar um roteiro, a IA cria sozinha.
+
+**Português:**
+
+Você é um especialista em criação de vídeos virais para TikTok e Reels. Vou te enviar uma imagem que já mostra mãos segurando um produto. Sua tarefa é:
+
+1. Analisar a imagem por completo: o produto (nome, tipo, embalagem, rótulo, cores, formato), as mãos (tom de pele, cor da unha, posição dos dedos), e o fundo/cenário (superfície, ambiente, iluminação, cores).
+
+2. Gerar um prompt completo e pronto para usar em uma IA de geração de vídeo (como Kling, Sora, Runway ou Pika).
+
+O prompt que você gerar DEVE seguir obrigatoriamente estas regras:
+
+ESTILO DO VÍDEO:
+- Formato vertical (9:16), estilo TikTok/Reels
+- Perspectiva em primeira pessoa (POV) — a câmera filma de cima para baixo, do ponto de vista de quem segura o produto
+- NÃO mostrar rosto, corpo ou tronco — apenas mãos e antebraços
+- O vídeo é de APRESENTAÇÃO do produto — a pessoa mostra e gesticula, NÃO usa/aplica o produto
+
+FIDELIDADE À IMAGEM ENVIADA:
+- As mãos no vídeo devem ser IDÊNTICAS às da imagem: mesmo tom de pele, mesma cor e estilo de unha, mesma aparência dos dedos
+- O produto deve ser uma reprodução EXATA: mesma embalagem, rótulo, logo, tipografia, cores, formato, tamanho e proporções — NÃO inventar, alterar ou omitir nenhum detalhe
+- O cenário/fundo do vídeo DEVE reproduzir fielmente o fundo da imagem enviada — mesma superfície, mesmas cores, mesma atmosfera e iluminação. Se o fundo for uma mesa de madeira, use mesa de madeira; se for mármore, use mármore; se for lençol, use lençol — fidelidade total
+
+ROTEIRO DO VÍDEO:
+- As mãos seguram o produto e o mostram para a câmera, exibindo a embalagem e o rótulo
+- As mãos gesticulam naturalmente ao redor do produto — apontam para detalhes, fazem gestos suaves de apresentação, viram o produto lentamente para mostrar diferentes ângulos
+- Os movimentos são delicados, femininos e naturais, como se estivesse apresentando o produto para uma amiga
+- A pessoa NÃO usa, NÃO abre e NÃO aplica o produto — apenas mostra e gesticula
+- Movimentos de câmera leves e naturais, estilo caseiro
+
+REGRAS FINAIS:
+- Estética 100% orgânica e autêntica, sem filtros pesados, sem edição profissional
+- Sem marcas d'água, sem texto sobreposto
+- O prompt do vídeo deve estar em INGLÊS
+- O roteiro de fala/narração deve estar em PORTUGUÊS (pt-BR)
+
+IMPORTANTE — ESTRUTURA DE TAKES:
+- Cada take do vídeo tem no MÁXIMO 8 segundos
+- Se o roteiro for grande demais para caber em um único take de 8 segundos, divida em múltiplos takes
+- Numere os takes (Take 1, Take 2, Take 3...) para facilitar a organização
+- Cada take deve ter continuidade visual com o anterior (mesmas mãos, mesmo produto, mesmo cenário)
+
+FORMATO DE RETORNO:
+- Para cada take, retorne UM ÚNICO prompt que já contenha tudo junto: a descrição visual da cena (em inglês) E o roteiro de fala embutido dentro do prompt (em português entre aspas)
+- Exemplo de formato: "POV shot, feminine hands holding the product... The woman is saying: 'Gente, vocês precisam conhecer esse produto...'"
+- O roteiro de fala deve estar DENTRO do prompt como parte da descrição da cena, não separado
+
+Se eu NÃO fornecer um roteiro de fala, crie um roteiro completo em português automaticamente — natural, casual, como se a pessoa estivesse falando com uma amiga sobre o produto.
+Se eu fornecer um roteiro de fala, melhore-o: corrija a linguagem, torne mais natural e envolvente, adicione ganchos de atenção e mantenha o tom casual de TikTok, respeitando a ideia original.
+
+Agora analise a imagem que estou enviando e gere os prompts por take.
+
+---
+
 ## SEÇÃO 4: Geração de Corpo Inteiro - 4 Ângulos (Frente, Direita, Esquerda, Costas)
 
 ### FRENTE (Front View)
